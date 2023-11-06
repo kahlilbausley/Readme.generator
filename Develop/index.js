@@ -80,32 +80,29 @@ function init() {
     .then(answers=>{
 
         fs.writeFileSync("readme.md",`
-        # ${answers.title}
+# ${answers.title}
+## description
 
-        ## description
-        ${answers.description}
+${answers.description}
 
-        
+## Installation
+${answers.installation}
 
-        ## Installation
-        ${answers.installation}
+## Usage
+${answers.usage}
 
-        ## Usage
-        ${answers.usage}
+## Guidelines
+${answers.guidelines}
 
-        ## Guidelines
-        ${answers.guidelines}
+## Test
+${answers.test}
 
-        ## Test
-        ${answers.test}
+## License
+![badmath](https://img.shields.io/badge/${answers.license}-blue)
 
-        ## License
-        ${answers.license}
-        ![badmath](https://img.shields.io/badge/-blue)
-
-        ## Questions
-        https://github.com/${answers.username}
-        you can also reach me at ${answers.email}
+## Questions
+https://github.com/${answers.username}
+you can also reach me at ${answers.email}
 
         ![license badge](./img/${answers.license}.jpeg)
     `)});

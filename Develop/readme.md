@@ -1,20 +1,27 @@
 
-# l
+# readme.generator
 ## description
-l
+
+generates the readme
 
 ## Installation
-l
+npm i
+
 ## Usage
-l
+personal use
+
 ## Guidelines
-l
+n/a
+
 ## Test
-l
+n/a
+
 ## License
-MIT
-![badmath](https://img.shields.io/badge/mit-blue)
+![badmath](https://img.shields.io/badge/MIT-blue)
+
 ## Questions
-https://github.com/l
-you can also reach me at l
-![license badge](./img/MIT.jpeg)
+https://github.com/kahlilbausley
+you can also reach me at kahlilbausley@gmail.com
+
+        ![license badge](./img/MIT.jpeg)
+    
