@@ -3,7 +3,7 @@
 ## description
 
 generates the readme
-
+https://vimeo.com/884128429?share=copy#t=0
 ## Installation
 npm i
 
