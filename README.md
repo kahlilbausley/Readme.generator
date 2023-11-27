@@ -22,6 +22,3 @@ n/a
 ## Questions
 https://github.com/kahlilbausley
 you can also reach me at kahlilbausley@gmail.com
-
-        ![license badge](./img/MIT.jpeg)
-    
